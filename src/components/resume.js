@@ -21,7 +21,7 @@ class Resume extends Component {
             <h2 style={{ paddingTop: '2em' }}>Sarita Das</h2>
             <h4 style={{ color: 'grey' }}>FULL STACK WEB DEVELOPER</h4>
             <hr style={{ borderTop: '3px solid #833fb2', width: '100%' }} />
-            <p>Hello! My academic qualifications includes my high school, vocational diploma and some time at college, where I studied business and media studies, i.e. mass communication. I am Sarita, with an inspired mindset, a full-stack web developer. Including my web developement boot camp, I have three terms in higher education where I honed my communication and problem solving skills in classes such as algorithm .</p>
+            <p>Hey! Hi! My academic credentials include my high school, my technical diploma and college, where I studied business and media studies, such as commerce and mass communication. I am Sarita, with a motivated mind, a full-stack web developer. Including my web creation boot camp, I have three degrees in higher education where I have developed my teamwork and problem-solving skills.</p>
 
 
             <h5>Address</h5>

@@ -1,4 +1,35 @@
+# REACT PORTFOLI0
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Tools/technologies uses 
+React, JavaScript , Css, HTML, Heroku, Git
+
+# Landing Page
+
+![Test-Image](screenshotreactportfolio.png)
+
+# Page 1 Resume
+
+![Test-Image](Screenshotresume.png) 
+
+# Page 2 Contact
+
+![Test-Image](Screenshotcontact.png)
+
+# Page 3 Projects
+
+![Test-Image](Screenshotprojects.png)
+
+![Test-Image](Screenshotproject1.png)
+
+![Test-Image](Screenshotproject2.png)
+
+![Test-Image](Screenshotproject3.png)
+
+# Page 4 Landing page with side menu
+
+![Test-Image](portfoliomenu.png)
+
 
 ## Available Scripts
 

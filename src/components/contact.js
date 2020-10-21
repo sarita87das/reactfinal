@@ -36,7 +36,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
                     <i className="fa fa-phone-square" aria-hidden="true" />
-                    https://sarita87das.github.io/bootstrap-portfolio/portfolio.html
+                    https://sarita87das.github.io/Portfolio/
                   </ListItemContent>
                 </ListItem>
                
